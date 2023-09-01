@@ -2,3 +2,13 @@ site_name: Student Networks
 
 theme:
   name: material
+  logo: snt.svg
+  palette:
+    primary: custom
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
