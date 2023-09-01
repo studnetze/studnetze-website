@@ -1,4 +1,4 @@
-# Nürnberg, Wohnheim St-Peter
+# Nuremberg, Wohnheim St-Peter
 
   Hochschule              Universität Erlangen-Nürnberg, Technische Hochschule Nürnberg Georg-Simon-Ohm, Musikalische Hochschule und Evangelische Fachhochschule
   ----------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
