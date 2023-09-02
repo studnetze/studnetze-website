@@ -1,4 +1,4 @@
-name: gh-pages
+name: ci
 on:
   push:
     branches:
@@ -21,4 +21,11 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs build
+      - uses: SamKirkland/web-deploy@v1
+        with:
+          target-server: web-2.fem.tu-ilmenau.de
+          remote-user: ${{ secrets.ssh_username }}
+          private-ssh-key: ${{ secrets.ssh_key }}
+          source-path: ./site/
+          destination-path: ./wwwroot/studentnetworks.eu/www/public_html/
