@@ -1,4 +1,4 @@
-# Sralsund, Holzhausen-Network
+# Stralsund, Holzhausen-Network
 
 ![:holzn:hhnet.gif](holzn/hhnet.gif)
 
