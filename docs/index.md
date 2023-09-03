@@ -1,3 +1,8 @@
+---
+title: "Student Networks"
+
+---
+
 # About student networks
 
 In many European university cities, there are independent student networks which provide Internet access for tenants in the dormitories, look after the technical equipment and sometimes take over the administration completely on their own. This site aims to collect information about as many of these networks as possible and to serve the networks themselves as a presentation and communication platform.
@@ -8,7 +13,13 @@ The SNT originally started out as an gathering of german student networks. Hence
 
 ## News
 
-The [SNT 2023](Meetings/snt2023.md) will take place in Dresden.
+### SNT2024 location announcement
+#### 2023-09-03
+The [CSN](Networks/chemnitz_csn) announced at the SNT2023, they will host the SNT2024 in Chemnitz.
+
+### SNT2023 in Dresden, Germany
+#### 2023-03-07
+The SNT 2023 will take place in Dresden and is hosted by [AG DSN](Networks/dresden_agdsn).
 
 ## About this Website
 
