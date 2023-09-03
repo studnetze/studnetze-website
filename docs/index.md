@@ -13,12 +13,10 @@ The SNT originally started out as an gathering of german student networks. Hence
 
 ## News
 
-### SNT2024 location announcement
-#### 2023-09-03
+### SNT2024 location announcement (2023-09-03)
 The [CSN](Networks/chemnitz_csn) announced at the SNT2023, they will host the SNT2024 in Chemnitz.
 
-### SNT2023 in Dresden, Germany
-#### 2023-03-07
+### SNT2023 in Dresden, Germany (2023-03-07)
 The SNT 2023 will take place in Dresden and is hosted by [AG DSN](Networks/dresden_agdsn).
 
 ## About this Website
