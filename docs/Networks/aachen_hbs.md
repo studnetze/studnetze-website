@@ -1,13 +1,13 @@
 # Aachen, Wohnheim Hainbuchenstraße
 
-  Hochschule              RWTH Aachen
-  ----------------------- ----------------------------------
-  Hochschulort            Aachen
-  Website                 <https://www.hbs.rwth-aachen.de>
-  Nutzer                  180
-  Studenten im Wohnheim   180
-  Mitarbeiter             ca. 10
-  Technik                 Kabel, Switche, Server, Strom
-  Beitrag pro Jahr        60 Euro
-  E-Mail                  netzag@hbs.rwth-aachen.de
-  Gründungsjahr (Netz)    2014
+University              | RWTH Aachen
+------------------------|-----------------------------------
+Location                | Aachen, Germany
+Website                 | <https://www.hbs.rwth-aachen.de>
+Members                 | 180
+Total students in dorms | 180
+Volunteers              | ~10
+Equipment               | Cables, Switches, Servers, Power
+Membership fees         | 60€ per year
+E-Mail                  | <netzag@hbs.rwth-aachen.de>
+Year of foundation      | 2014
