@@ -4,46 +4,26 @@
 
 ![](/studnetze/sh/sh/sh-logo-col.png)
 
-  ---------------------------------------------------------------------------------------------------------------
-  University                   [Czech Technical University in Prague](https://www.cvut.cz/en)   
-  ---------------------------- ---------------------------------------------------------------- -----------------
-  Location of university       Prague                                                           
-
-  Website                      <http://www.siliconhill.cz>                                      
-
-  Members                      \~ 3500                                                          
-
-  Members in residental home   FIXME                                                            
-
-  Staff members                \~ 400                                                           
-
-  Technic                      FIXME                                                            
-
-  Member fees                  **Membership**                                                   **Fee (CZK)**
-
-  :::                          Basic                                                            200 / semester
-
-  :::                          Network                                                          600 / semester
-
-  :::                          Sports                                                           1000 / semester
-
-  :::                          Photo studio                                                     500 / semester
-
-  :::                          Music studio                                                     500 / semester
-
-  :::                          Autodesk - beginner                                              500 / course
-
-  :::                          Dancing course - single                                          400 / course
-
-  :::                          Autodesk - advanced                                              1000 / course
-
-  :::                          Dancing course - pair                                            800 / course
-
-  E-Mail                       admin@siliconhill.cz\                                            
-                               <snt18@siliconhill.cz>                                           
-
-  Year of foundation           1998                                                             
-  ---------------------------------------------------------------------------------------------------------------
+University                  | [Czech Technical University in Prague](https://www.cvut.cz/en) | .
+----------------------------|----------------------------------------------------------------|-----------------
+Location of university      | Prague                                                         |  
+Website                     | <http://www.siliconhill.cz>                                    |  
+Members                     | \~ 3500                                                        |  
+Members in residental home  | FIXME                                                          |  
+Staff members               | \~ 400                                                         |  
+Technic                     | FIXME                                                          |  
+Member fees                 | **Membership**                                                 |  **Fee (CZK)**
+                            | Basic                                                          |  200 / semester
+                            | Network                                                        |  600 / semester
+                            | Sports                                                         |  1000 / semester
+                            | Photo studio                                                   |  500 / semester
+                            | Music studio                                                   |  500 / semester
+                            | Autodesk - beginner                                            |  500 / course
+                            | Dancing course - single                                        |  400 / course
+                            | Autodesk - advanced                                            |  1000 / course
+                            | Dancing course - pair                                          |  800 / course
+E-Mail                      | admin@siliconhill.cz,<snt18@siliconhill.cz>                    |                       
+Year of foundation          | 1998                                                           |  
 
 ## About Silicon Hill
 

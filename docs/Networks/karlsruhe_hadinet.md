@@ -10,19 +10,19 @@ Die Anbindung an das Internet erfolgt über das KIT zum Belwue.
 
 ## Zusammenfassung
 
-  Hochschule              Alle in Karlsruhe
-  ----------------------- ----------------------------------------------------------------------------------------------------------
-  Hochschulort            Karlsruhe
-  Website                 <https://www.hadiko.de/>
-  Nutzer                  ca. 1100
-  Studenten im Wohnheim   1103
-  Mitarbeiter             20 - 30
-  Switching               Aruba CX 8360 (Core), Aruba CX 6300 (Serverraum), Aruba CX 6200 (Access), HP Procurve 5406/5412 (Legacy)
-  WLAN                    Ubiquiti Unifi AP AC Pro
-  Uplink                  2x 1 GBit/s
-  Beitrag                 3.50€ / Monat
-  E-Mail                  <hadinet@hadiko.de>
-  Gründungsjahr           1996
+Hochschule             | Alle in Karlsruhe
+-----------------------|----------------------------------------------------------------------------------------------------------
+Hochschulort           | Karlsruhe
+Website                | <https://www.hadiko.de/>
+Nutzer                 | ca. 1100
+Studenten im Wohnheim  | 1103
+Mitarbeiter            | 20 - 30
+Switching              | Aruba CX 8360 (Core), Aruba CX 6300 (Serverraum), Aruba CX 6200 (Access), HP Procurve 5406/5412 (Legacy)
+WLAN                   | Ubiquiti Unifi AP AC Pro
+Uplink                 | 2x 1 GBit/s
+Beitrag                | 3.50€ / Monat
+E-Mail                 | <hadinet@hadiko.de>
+Gründungsjahr          | 1996
 
 ## Netzwerk
 

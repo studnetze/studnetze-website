@@ -2,20 +2,19 @@
 
 ![:fem:logo_420x100.png](fem/logo_420x100.png)
 
-  University                TU Ilmenau
-  ------------------------- ------------------------------------------------------------------------------------------------
-  Location                  Ilmenau
-  Website                   <http://www.fem.tu-ilmenau.de>
-  Network Overview          FIXME
-  Users                     2000
-  Students in Dormitories   2200
-  Active Members            100
-  Equipment                 HP2650, HP3800, HP5412zl, Aruba 8320, Cisco ASR 1001X (administrated by the university admins)
-  Contribution per year     80.00€
-  E-Mail                    <info@fem.tu-ilmenau.de>
-  Founded in                1997
+University               | TU Ilmenau
+-------------------------|------------------------------------------------------------------------------------------------
+Location                 | Ilmenau
+Website                  | <http://www.fem.tu-ilmenau.de>
+Network Overview         | FIXME
+Users                    | 2000
+Students in Dormitories  | 2200
+Active Members           | 100
+Equipment                | HP2650, HP3800, HP5412zl, Aruba 8320, Cisco ASR 1001X (administrated by the university admins)
+Contribution per year    | 80.00€
+E-Mail                   | <info@fem.tu-ilmenau.de>
+Founded in               | 1997
 
-\
 The Forschungsgemeinschaft elektronische Medien e.V. (FeM) is the
 largest student society at the TU Ilmenau. It was founded in 1997 and
 currently has about 2000 members.
