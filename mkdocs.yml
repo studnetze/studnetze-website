@@ -5,6 +5,67 @@ theme:
   logo: snt.svg
   palette:
     primary: custom
+  features:
+    - navigation.tabs
+
+nav:
+  - About:
+    - index.md
+    - contact.md
+  - Networks:
+    - networks/aachen_hbs.md
+    - networks/bochum_highspeedsurfer.md
+    - networks/bochum_hmd.md
+    - networks/bonn_studnet.md
+    - networks/bratislava_ynet.md
+    - networks/braunschweig_atekon.md
+    - networks/braunschweig_michaelisnet.md
+    - networks/braunschweig_sielnet.md
+    - networks/chemnitz_csn.md
+    - networks/dresden_agdsn.md
+    - networks/erlangen_rommelwood.md
+    - networks/erlangen_sieglitzhof.md
+    - networks/freiberg_sfg.md
+    - networks/goettingen_kellnerweg.md
+    - networks/hamburg_sybuca.md
+    - networks/heilbronn_swn.md
+    - networks/ilmenau_fem.md
+    - networks/karlsruhe_hadinet.md
+    - networks/karlsruhe_studierendenwerk.md
+    - networks/mittweida_mcn.md
+    - networks/munich_stustanet.md
+    - networks/neubrandenburg_necane.md
+    - networks/nuremberg_st-peter.md
+    - networks/oldenburg_ftn.md
+    - networks/oldenburg_pmnet.md
+    - networks/osnabrueck_hehos.md
+    - networks/prague_silicon-hill.md
+    - networks/rostock_rsn.md
+    - networks/stralsund_holzn.md
+    - networks/stuttgart_selfnet.md
+    - networks/tuebingen_netzak.md
+    - networks/wilhelmshaven_stuwonet.md
+  - Meetings:
+    - meetings/index.md 
+    - meetings/snt2024.md
+    - meetings/snt2023.md
+    - meetings/snt2019.md
+    - meetings/snt2018.md
+    - meetings/snt2017.md
+    - meetings/snt2016.md
+    - meetings/snt2015.md
+    - meetings/snt2014.md
+    - meetings/snt2013.md
+    - meetings/snt2012.md
+    - meetings/snt2011.md
+    - meetings/snt2010.md
+    - meetings/snt2009.md
+    - meetings/snt2008.md
+    - meetings/snt2007.md
+    - meetings/snt2006.md
+    - meetings/snt2005.md
+    - meetings/snt2004.md
+
 
 extra_css:
   - stylesheets/extra.css
