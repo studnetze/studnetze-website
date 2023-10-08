@@ -18,9 +18,9 @@ Nutzer                 | ca. 1100
 Studenten im Wohnheim  | 1103
 Mitarbeiter            | 20 - 30
 Switching              | Aruba CX 8360 (Core), Aruba CX 6300 (Serverraum), Aruba CX 6200 (Access), HP Procurve 5406/5412 (Legacy)
-WLAN                   | Ubiquiti Unifi AP AC Pro
-Uplink                 | 2x 1 GBit/s
-Beitrag                | 3.50€ / Monat
+WLAN                   | Ubiquiti Unifi AP AC Pro, Unifi AP U6 Pro
+Uplink                 | 2x 10 GBit/s
+Beitrag                | 5.00€ / Monat
 E-Mail                 | <hadinet@hadiko.de>
 Gründungsjahr          | 1996
 
@@ -47,9 +47,8 @@ angebunden.
 Seit 2020 laufen Projekte zur Ausstattung aller Gebäude mit WLAN. Das
 HaDiNet übernimmt hierbei alles von Planung und Handwerkerkommunikation
 über Koordinierung bis Installation und steht im ständigen Austausch mit
-dem Wohnheimsbetreiber. Stand August 2022 sind vier Gebäude fast
-vollständig ausgestattet und die Arbeiten im fünften Gebäude haben
-begonnen.
+dem Wohnheimsbetreiber. Stand Oktober 2023 sind fünf Gebäude fast
+vollständig ausgestattet.
 
 ## Server
 
