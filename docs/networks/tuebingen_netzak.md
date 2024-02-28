@@ -1,14 +1,16 @@
 # Tübingen, Netz-AK
 
-Hochschule             | Uni Tübingen
+Covered Universities             | Uni Tübingen, Hohenheim; HfWU Nürtigen-Geislingen, HS Reutlingen, Albstadt-Sigmaringen
 -----------------------|-------------------------------------------------------------
-Hochschulort           | Tübingen
-Website                | n.v.
-Netzplan               | nicht öffentlich
-Nutzer                 | ca. 2700 Anschlüsse, ca. 2000 Nutzer
-Studenten im Wohnheim  | ca. 3500
-Mitarbeiter            | 6 Leute CoreTeam, 8 zusätzl. Leute Userbetreuung
-Technik                | k.A.
-Beitrag pro Jahr       | kein
-E-Mail                 | netz-ak@gehoerthiernichtrein.studentenwerk.uni-tuebingen.de
-Gründungsjahr          | 2005
+Locations Of Dormitories    | Hohenheim, Geislingen, Nürtingen, Reutlingen, Tübingen, Albstadt,  Sigmaringen
+Website                     | https://netz-ak.de/
+Net-Topology                | not published
+Users                       | about ~5.500
+Members            | 5 active and 2 inactive members
+Hardware                | Supermicro, Dell, Mikrotik, Alcatel, (Aruba)
+Software            | Prometheus, Zammad, OPNSNS, ubuntu-server, Proxmox
+Membership Fees       | none
+E-Mail                 | netz-ak@sw-tuebingen-hohenheim.de
+Year Of Foundation          | 08/2004
+
+
