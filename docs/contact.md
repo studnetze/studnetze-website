@@ -12,4 +12,8 @@ Your access will be enabled in a timely manner.
 Many student network members are reachable via the channel [#studnetze](https://webirc.hackint.org/#studnetze) on [hackint](https://hackint.org/).
 
 ### Matrix
-Hackint operates a Matrix transport for their IRC channes. You can connect to our channel using the room `#studnetze:hackint.org` via Matrix.
+Hackint operates a Matrix transport for their IRC channels. You can connect to our channel using the room `#studnetze:hackint.org` via Matrix.
+
+### XMPP
+Hackint operates a [XMPP transport](https://hackint.org/transport/xmpp) for their IRC channels.
+You can connect to our channel using the room `#studnetze@irc.hackint.org` via XMPP.
