@@ -2,6 +2,7 @@
 
 Meeting | Location | Logo
 --------|----------|-----
+[SNT 2024](snt2024.md) | Chemnitz                                | ![snt2024.png](snt2024.png){ width="100" }
 [SNT 2023](snt2023.md) | Dresden                                 | ![snt2023.png](snt2023.png){ width="100" }
 SNT 2022               | *cancelled because of COVID-19*         |
 SNT 2021               | *cancelled because of COVID-19*         |
