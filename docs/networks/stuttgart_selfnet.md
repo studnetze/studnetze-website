@@ -34,6 +34,9 @@ Stuttgart (students union) or VSSW in Stuttgart Campus Vaihingen, Stuttgart
 City, Stuttgart-Möhringen, Stuttgart Bad Cannstatt, Stuttgart
 Untertürkheim, Ludwigsburg and Esslingen are connected to the dormitory network.
 
+Currently only one dormitory in the inner city of Stuttgart is conncted using a
+wireless bridge and is planned for optical fiber connection in the future.
+
 - [Network details](https://www.selfnet.de/services/network.html)
 - [Dashboard](http://dashboard.selfnet.de)
 
