@@ -9,18 +9,16 @@ University                  | [Czech Technical University in Prague](https://www
 Location of university      | Prague                                                         |  
 Website                     | <http://www.siliconhill.cz>                                    |  
 Members                     | \~ 3500                                                        |  
-Members in residental home  | FIXME                                                          |  
+Members in residental home  | \~20-50+                                                       |  
 Staff members               | \~ 400                                                         |  
 Technic                     | FIXME                                                          |  
 Member fees                 | **Membership**                                                 |  **Fee (CZK)**
                             | Basic                                                          |  200 / semester
-                            | Network                                                        |  600 / semester
-                            | Sports                                                         |  1000 / semester
+                            | Network                                                        |  800 / semester
+                            | Sports                                                         |  1500 / semester
                             | Photo studio                                                   |  500 / semester
-                            | Music studio                                                   |  500 / semester
-                            | Autodesk - beginner                                            |  500 / course
+                            | Music studio                                                   |  1000 / semester
                             | Dancing course - single                                        |  400 / course
-                            | Autodesk - advanced                                            |  1000 / course
                             | Dancing course - pair                                          |  800 / course
 E-Mail                      | admin@siliconhill.cz,<snt18@siliconhill.cz>                    |                       
 Year of foundation          | 1998                                                           |  
@@ -67,7 +65,7 @@ out! :) In 2012 was in two months developed and started our current
 information system - is.sh.cvut.cz - it is based on Ruby on Rails the
 the main improvement was the speed. We tested HP and Juniper hardware
 against current CISCO switches, then bought first CISCO Nexus box and
-started the upgrade of our access switches from 100MBps to 1GBps. That
+started the upgrade of our access switches from 100 Mbps to 1 Gbps. That
 was also the first year of SUT - one IT-related talk every Tuesday
 during the academic year.
 
@@ -87,23 +85,27 @@ WIFI. A year later we bought new UPS, 4k cameras, and our own Apiary,
 #### Present
 
 Today, the network follows the Core-Distribution-Access model with the
-following topology. We have 10Gbps fibre connectivity form Czech
-Technical University and 100 Mbps backup from commercial provider. We're
+following topology. We have 2x 25 Gbps fiber connectivity form Czech
+Technical University and 2x 500 Mbps backup from commercial provider. We're
 connected to CESNET, the academical network in Czechia and from there to
 GÈANT as well.
 
-The core of our network is currently CISCO 6509E, the distribution is
-made up by two CISCO Nexus 5596UP. We connect twelve dormitory
-buildings, six floors each, every floor has two twitches fibre connected
-with both Nexuses. Every tenant has 1GBps metallic connection, its own
+The core of our network was Cisco 6509E, in early 2020 it was replaced
+with pair of Cisco Catalyst 9500-48Y4C in StackWise Virtual, the distribution was
+made up by two Cisco Nexus 5596UP, in early 2025 it was replaced with 
+pair of Cisco Nexus 93360YC-FX2. We connect twelve dormitory buildings,
+six floors each, every floor has two switches connected via fiber
+with both Nexuses. Every tenant has 1 Gbps metallic connection, its own
 public IPv4 and IPv6 address. We managed to cover every building with
-Aruba wireless solution.
+Aruba wireless solution - Wi-Fi 5 W1/W2. Later on several buildings have been upgraded
+to Cisco Wi-Fi 6 solution and rests of dismantled Aruba solution was used
+as an coverage upgrade for other buildings.
 
 We've separate Admins and NetAdmins sections. Every block has its own
 NetAdmin. There're also registrators to handle the load of people every
 September. Every member and every device is stored in our information
 system. From there our switches are configured and the configuration for
-DNS, DHCP and LDAP is generated. If we receive an abuse we deal with it
+DNS, DHCP is stored in DB and synced with LDAP. If we receive an abuse we deal with it
 properly so every member takes also the responsibility for himself.
 
 ![Network topology as of Sept.
