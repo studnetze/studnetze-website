@@ -7,11 +7,11 @@
 University                  | [Czech Technical University in Prague](https://www.cvut.cz/en) | .
 ----------------------------|----------------------------------------------------------------|-----------------
 Location of university      | Prague                                                         |  
-Website                     | <http://www.siliconhill.cz>                                    |  
+Website                     | <https://www.siliconhill.cz>                                   |  
 Members                     | \~ 3500                                                        |  
 Members in residental home  | \~20-50+                                                       |  
-Staff members               | \~ 400                                                         |  
-Technic                     | FIXME                                                          |  
+Staff members               | \~ 200                                                         |  
+Technologies                | Cisco Catalyst 2960S/X, 9200L/9300L, 9500H, Nexus 9k, ASR1k, 9800-CL + WiFi 6 and 6E APs, Aruba MC7210 + WiFi5 W1+W2 APs, Palo Alto PA-5k, F5 Viprion, Dell PowerEdge 12-14G, HPE Gen8-9, Pure Storage FlashArray//X |
 Member fees                 | **Membership**                                                 |  **Fee (CZK)**
                             | Basic                                                          |  200 / semester
                             | Network                                                        |  800 / semester
@@ -92,10 +92,10 @@ GÈANT as well.
 
 The core of our network was Cisco 6509E, in early 2020 it was replaced
 with pair of Cisco Catalyst 9500-48Y4C in StackWise Virtual, the distribution was
-made up by two Cisco Nexus 5596UP, in early 2025 it was replaced with 
-pair of Cisco Nexus 93360YC-FX2. We connect twelve dormitory buildings,
+made up by two Cisco Nexus 5596UP, in early 2025 we purchased pair of
+Cisco Nexus 93360YC-FX2 and it is going to replace the older pair of N5596UP. We connect twelve dormitory buildings,
 six floors each, every floor has two switches connected via fiber
-with both Nexuses. Every tenant has 1 Gbps metallic connection, its own
+with both Nexuses. Every tenant has 1 Gbps wired connection, its own
 public IPv4 and IPv6 address. We managed to cover every building with
 Aruba wireless solution - Wi-Fi 5 W1/W2. Later on several buildings have been upgraded
 to Cisco Wi-Fi 6 solution and rests of dismantled Aruba solution was used
@@ -109,7 +109,7 @@ DNS, DHCP is stored in DB and synced with LDAP. If we receive an abuse we deal w
 properly so every member takes also the responsibility for himself.
 
 ![Network topology as of Sept.
-2016](/studnetze/sh/topologie_2016.png){.align-center}
+2023](http://traffic.sh.cvut.cz/sit2023.png){.align-center}
 
 In 2018, the main server room is planned to be relocated and renovated.
 Virtualization Switched from Xen to OpenNebula, we also got our first
@@ -136,7 +136,7 @@ courses). For those different purposes we maintain several "Projects".
 
 #### Events
 
--   [Silicon Hill Open Wednesday (SHOW)](http://show.siliconhill.cz/)
+-   [Silicon Hill Open Wednesday (SHOW)](https://show.siliconhill.cz/)
 -   [Installfest.cz](https://installfest.cz/if18/) &
     [RetroFest.cz](https://retrofest.cz/)
 -   [Bastler's Wednesdays
