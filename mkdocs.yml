@@ -40,6 +40,7 @@ nav:
     - networks/oldenburg_ftn.md
     - networks/oldenburg_pmnet.md
     - networks/osnabrueck_hehos.md
+    - networks/pcklub_kosice.md
     - networks/prague_silicon-hill.md
     - networks/rostock_rsn.md
     - networks/stralsund_holzn.md
@@ -48,6 +49,7 @@ nav:
     - networks/wilhelmshaven_stuwonet.md
   - Meetings:
     - meetings/index.md 
+    - meetings/snt2025.md
     - meetings/snt2024.md
     - meetings/snt2023.md
     - meetings/snt2019.md
@@ -75,4 +77,4 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - tables
-
+  - admonition

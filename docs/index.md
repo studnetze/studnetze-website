@@ -13,6 +13,9 @@ The SNT originally started out as an gathering of german student networks. Hence
 
 ## News
 
+### SNT2025 in Košice, Slovakia (2025-05-20)
+The upcoming SNT hosted by PCKlub, Košice is happening soon! You can read about travel options, venue and schedule in [SNT2025 section](meetings/snt2025.md).
+
 ### SNT2024 location announcement (2023-09-03)
 The [CSN](networks/chemnitz_csn) announced at the SNT2023, they will host the [SNT2024](meetings/snt2024) in Chemnitz.
 
