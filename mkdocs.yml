@@ -16,6 +16,7 @@ nav:
   - Networks:
     - networks/aachen_hbs.md
     - networks/aachen_netzac.md
+    - networks/aachen_saw.md
     - networks/bochum_highspeedsurfer.md
     - networks/bochum_hmd.md
     - networks/bonn_studnet.md
