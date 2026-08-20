@@ -12,3 +12,4 @@ Technik                | HP 5400zl Switche, Linux Router, mysql, python
 Beitrag pro Jahr       | 144.00€
 E-Mail                 | <alle@atekon.de>
 Gründungsjahr          | 2000
+Auflösung              | unbekannt

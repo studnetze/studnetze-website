@@ -12,3 +12,4 @@ Technik                | Compaq/3com/Cisco/Linux/Subversion
 Beitrag pro Jahr       | k.A.
 E-Mail                 | <mitglieder-rsn@uni-rostock.de>
 Gründungsjahr          | 1999
+Auflösung              | Netzwerk wird vom Studierendenwerk Rostock-Wismar gestellt und durch VARNObit GbR betrieben.

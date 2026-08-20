@@ -12,3 +12,4 @@ Technik                | HP ProCurve J4903A/J4904A Switches; CAT7 Verkabelung zu
 Beitrag pro Jahr       | 60.00€
 E-Mail                 | <admingroup@fortytwo.uni-oldenburg.de>
 Gründungsjahr          | 1996
+Auflösung              | 2017

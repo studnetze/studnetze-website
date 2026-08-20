@@ -12,3 +12,4 @@ Technik                | Cisco 2600er, zentraler DLink-Switch, FreeBSD Server, T
 Beitrag pro Jahr       | 50.00€
 E-Mail                 | <netzteam@pmnet.uni-oldenburg.de>
 Gründungsjahr          | 1994
+Auflösung              | unklar

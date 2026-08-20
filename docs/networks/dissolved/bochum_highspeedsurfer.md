@@ -11,3 +11,4 @@ Equipment               | Foundry, Allied Telesis, Linux servers, LWL backbone, 
 Fees                    | 12,78€, included in room rent
 E-Mail                  | <admin@highspeedsurfer.de>
 Year of foundation      | 2001
+Disolved                | Now managed by GLASFASER RUHR GmbH & Co. KG
