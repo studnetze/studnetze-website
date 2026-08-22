@@ -15,4 +15,4 @@ Technik                      | Switches: HP 6600-24XG, 11x HP Procurve 2910al, 1
 Beitrag pro Jahr             | 30€
 E-Mail                       | <noc@rommelwood.de>
 Gründungsjahr (Netz)         | 1998
-Zentrale WLAN Infrastruktur  | Nein
+Auflösung                    | Verein existiert weiterehin, Netzbetrieb wurde jedoch eingestellt. Jetzt: DS-networks GmbH

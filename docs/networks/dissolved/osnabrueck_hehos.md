@@ -12,3 +12,4 @@ Technik                | ATI 8326GB 100Mbps-Switches, debian Linux Server & Rout
 Beitrag pro Jahr       | 5.00€
 E-Mail                 | <ateam@heh.uni-osnabrueck.de>
 Gründungsjahr          | 1996
+Auflösung              | Netzwerk wird vom Studierendenwerk Osnabrück gestellt und durch Dienstleister betrieben. 

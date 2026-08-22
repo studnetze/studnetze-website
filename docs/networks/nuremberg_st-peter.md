@@ -1,9 +1,9 @@
-# Nuremberg, Wohnheim St-Peter
+# Nürnberg, Wohnheim St-Peter
 
 Hochschule             | Universität Erlangen-Nürnberg, Technische Hochschule Nürnberg Georg-Simon-Ohm, Musikalische Hochschule und Evangelische Fachhochschule
 -----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hochschulort           | Erlangen und Nürnberg
-Website                | Verein: <http://www.st-peter.stw.uni-erlangen.de> Vermieter: <http://www.studentenwerk.uni-erlangen.de/>
+Website                | Verein: <https://spacepub.de/> Vermieter: <http://www.studentenwerk.uni-erlangen.de/>
 Netzplan               | k.A
 Nutzer                 | ca. 560
 Studenten im Wohnheim  | 652

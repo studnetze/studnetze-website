@@ -3,8 +3,7 @@
 Hochschule             | Hochschule Mittweida
 -----------------------|-----------------------------------------------------------------------------------
 Hochschulort           | Mittweida
-Website                | <http://www.hs-mittweida.de/mcn>
-Interna                | **-\>[nicht öffentlich](/intern/studnetze/mcn)**
+Website                | <https://web.mcn.hs-mittweida.de>
 Netzplan               | k.A
 Nutzer                 | 500
 Studenten im Wohnheim  | 550

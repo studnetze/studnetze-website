@@ -4,7 +4,7 @@ Haus Michael auf Draht - Initiativkreis zur Vernetzung des Studierendenwohnheims
 University              | Ruhr-Universität Bochum
 ------------------------|--------------------------------------
 Location                | Bochum, Germany
-Website                 | <http://www.ruhr-uni-bochum.de/mad>
+Website                 | <https://hm.rub.de/>
 Members                 | 150
 Total students in dorms | 180
 Staff members           | 10

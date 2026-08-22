@@ -12,3 +12,4 @@ Technik                | CBL Airlaser, Wavelan
 Beitrag pro Jahr       | 108.00€
 E-Mail                 | <vorstand@michaelishof.de>
 Gründungsjahr          | 1999
+Auflösung              | 2021
