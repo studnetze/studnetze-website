@@ -13,6 +13,9 @@ The SNT originally started out as an gathering of german student networks. Hence
 
 ## News
 
+### SNT2027 in Stuttgart, Germany (2026-09-14)
+The [SNT2027](meetings/snt2027.md) will take place in Stuttgart and is hosted by [Selfnet](networks/stuttgart_selfnet.md).
+
 ### SNT2026 in Karlsruhe, Germany (2026-04-08)
 The [SNT2026](meetings/snt2026.md) will take place in Karlsruhe and is hosted by [HaDiNet](networks/karlsruhe_hadinet.md).
 
